@@ -1,14 +1,9 @@
-[
-    {
-        "relation": [
-            "delegate_permission/common.handle_all_urls"
-        ],
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
         "target": {
             "namespace": "android_app",
             "package_name": "com.synpulse.vb8_app",
-            "sha256_cert_fingerprints": [
-                "FD:ED:D3:10:48:42:53:54:8C:6D:C6:2A:31:DA:A9:38:94:EF:7A:BE:A6:16:95:1D:B3:7D:53:E0:29:40:6E:86"
-            ]
+            "sha256_cert_fingerprints": ["2C:D8:DE:81:F3:C1:98:E2:00:64:F7:89:31:64:DB:2A:F6:12:B2:52:EA:40:68:C7:B3:2E:4E:F9:57:D8:BC:2B"]
         }
     }
 ]
